@@ -1,4 +1,4 @@
-# 🤖 VK Observer
+# 🤖 VK Wall Observer Bot
 
 Telegram bot for monitoring new posts in VK communities and profiles and
 sending them to Telegram.
