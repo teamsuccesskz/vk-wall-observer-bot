@@ -5,15 +5,15 @@ sending them to Telegram.
 
 ## Features
 
--   🔍 **Real-time monitoring** --- checks VK communities and profiles
+-   🔍 **Real-time monitoring** — checks VK communities and profiles
     every hour for new posts
--   📩 **Smart notifications** --- receive clean, formatted messages
+-   📩 **Smart notifications** — receive clean, formatted messages
     with post content
--   ⚙️ **Easy management** --- convenient commands for controlling
+-   ⚙️ **Easy management** — convenient commands for controlling
     subscriptions
--   📊 **Support for multiple communities and profiles** --- track an
+-   📊 **Support for multiple communities and profiles** — track an
     unlimited number of communities and profiles
--   🔔 **Instant alerts** --- be the first to know about new posts
+-   🔔 **Instant alerts** — be the first to know about new posts
 
 ## 🚀 How to use?
 
