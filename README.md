@@ -3,7 +3,11 @@
 Telegram bot for monitoring new posts in VK communities and profiles and
 sending them to Telegram.
 
-## Features
+## ✨ Preview
+<img height="500" alt="vk-obs-bot-1" src="https://github.com/user-attachments/assets/40147ccf-8cfe-4117-b114-d1ab41c20316" />
+<img height="500" alt="vk-obs-bot-2" src="https://github.com/user-attachments/assets/a568b1f0-1ed5-4ae8-92b6-f6076b23fd59" />
+
+## ✨ Features
 
 -   🔍 **Real-time monitoring** — checks VK communities and profiles
     every hour for new posts
